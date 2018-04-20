@@ -1,0 +1,2 @@
+David - notes
+cmake ../ & make
